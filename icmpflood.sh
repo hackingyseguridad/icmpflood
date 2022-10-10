@@ -1,3 +1,5 @@
+#!/bin/bash
+# (c) hacking y seguridad .com 2022
 echo
 echo "Ataque de inundacion ICMP a IP especificada, con paquetes de peso 1024 bytes"
 echo
